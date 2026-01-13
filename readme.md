@@ -7,4 +7,6 @@
 
 ```py
 print ("Hello Git")
+for i in range(30):
+    print ("Hello Git 30 times!!")
 ```
