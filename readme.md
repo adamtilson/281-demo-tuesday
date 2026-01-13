@@ -10,3 +10,10 @@ print ("Hello Git")
 for i in range(30):
     print ("Hello Git 30 times!!")
 ```
+
+```c
+int x = 0;
+for (int i = 0; i < 3; i++) {
+    x += 1;
+}
+```
